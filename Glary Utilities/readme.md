@@ -4,29 +4,28 @@ Key-Pro:2788-61679-58768
 
 Glary Utilities 2
 
-Glary Utilities 2 °²×°°ü:gu2setup.exe.downlist
+Glary Utilities 2 å®‰è£…åŒ…:gu2setup.exe.downlist
 
-Glary Utilities 2 Pro °²×°°ü:gup2setup.exe.downlist
+Glary Utilities 2 Pro å®‰è£…åŒ…:gup2setup.exe.downlist
 
-Glary Utilities 2 ÎŞ²å¼ş°²×°°ü:gu2setup_slim.exe.downlist
+Glary Utilities 2 æ— æ’ä»¶å®‰è£…åŒ…:gu2setup_slim.exe..downlist
 
-Glary Utilities 2 ±ãĞ¯×Ô½â°ügu2portable.exe.downlist
+Glary Utilities 2 ä¾¿æºè‡ªè§£åŒ…:gu2portable.exe.downlist
 
-Glary Utilities 2 ±ãĞ¯Ñ¹Ëõ°ü:gu2portable.zip.downlist
+Glary Utilities 2 ä¾¿æºå‹ç¼©åŒ…:gu2portable.zip.downlist
 
-Glary Utilities 2 ÏµÁĞ:Glary Utilities 2.downlist
+Glary Utilities 2 ç³»åˆ—:Glary Utilities 2.downlist
 
 Glary Utilities 3
 
-Glary Utilities 3 °²×°°ü: gu3setup.exe.downlist
+Glary Utilities 3 å®‰è£…åŒ…:gu3setup.exe.downlist
 
-Glary Utilities 3 Pro °²×°°ü:gup3setup.exe.downlist
+Glary Utilities 3 Pro å®‰è£…åŒ…:gup3setup.exe.downlist
 
 Glary Utilities 4
 
-Glary Utilities 4 °²×°°ü:gu4setup.exe.downlist
+Glary Utilities 4 å®‰è£…åŒ…:gu4setup.exe.downlist
 
-Glary Utilities 4 Pro °²×°°ü:gup4setup.exe.downlist
+Glary Utilities 4 Pro å®‰è£…åŒ…:gup4setup.exe.downlist
 
-
-*¼øÓÚ¹úÍâµÄÈí¼şÔ´,ÇëÊ¹ÓÃÑ¸À×»òÕßIDMÏÂÔØ.*
+*é‰´äºå›½å¤–çš„è½¯ä»¶æº,è¯·ä½¿ç”¨è¿…é›·æˆ–è€…IDMä¸‹è½½.*

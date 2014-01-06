@@ -21,13 +21,13 @@ PC端
 
 使用TeamViewer App，实现移动和灵活
 
-Android应用:TeamViewer.apk 或 可到http://www.teamviewer.com/zhcn/download/mobile.aspx,选择下载.
+Android应用:TeamViewer.apk 或 提供下载:  http://www.teamviewer.com/zhcn/download/mobile.aspx
 
-iOS版应用程序(iPhone、iPad、iPod touch):可到http://www.teamviewer.com/zhcn/download/mobile.aspx,选择下载.
+iOS版应用程序(iPhone、iPad、iPod touch):提供下载:  http://www.teamviewer.com/zhcn/download/mobile.aspx
 
-Windows Phone 8版App:可到http://www.teamviewer.com/zhcn/download/mobile.aspx,选择下载.
+Windows Phone 8版App:提供下载:  http://www.teamviewer.com/zhcn/download/mobile.aspx
  	
-Windows 8/RT版App:可到http://www.teamviewer.com/zhcn/download/mobile.aspx,选择下载.
+Windows 8/RT版App:提供下载:  http://www.teamviewer.com/zhcn/download/mobile.aspx
 
 资料:
 

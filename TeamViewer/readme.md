@@ -1,5 +1,7 @@
 #TeamViewer
 
+[TeamViewer](http://www.teamviewer.com/)
+
 ##PC端
 
       完整版:TeamViewer_Setup_zhcn.exe
@@ -22,30 +24,24 @@
 
       Android应用:TeamViewer.apk 或 提供下载:
 
-      http://www.teamviewer.com/zhcn/download/mobile.aspx
-
       iOS版应用程序(iPhone、iPad、iPod touch):提供下载:
-
-       http://www.teamviewer.com/zhcn/download/mobile.aspx
 
       Windows Phone 8版App:提供下载: 
 
-      http://www.teamviewer.com/zhcn/download/mobile.aspx
-         
       Windows 8/RT版App:提供下载:
 
-      http://www.teamviewer.com/zhcn/download/mobile.aspx
+[mobile](http://www.teamviewer.com/zhcn/download/mobile.aspx)
 
 ##资料:
 
       远程控制专用手册 v8 [PDF, 简体中文版]:
       
-      http://www.teamviewer.com/zhcn/res/pdf/TeamViewer8-Manual-RemoteControl-zhCN.pdf
+[Dowload](http://www.teamviewer.com/zhcn/res/pdf/TeamViewer8-Manual-RemoteControl-zhCN.pdf)
 
       会议专用手册 v8 [PDF, 简体中文版]:
       
-      http://www.teamviewer.com/zhcn/res/pdf/TeamViewer8-Manual-Meeting-zhCN.pdf
+[Dowload](http://www.teamviewer.com/zhcn/res/pdf/TeamViewer8-Manual-Meeting-zhCN.pdf)
 
       Management Console手册 v8 [PDF, 英文版]:
       
-      http://www.teamviewer.com/en/res/pdf/TeamViewer8-Manual-ManagementConsole-en.pdf
+[Dowload](http://www.teamviewer.com/en/res/pdf/TeamViewer8-Manual-ManagementConsole-en.pdf)

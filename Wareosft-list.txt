@@ -1,0 +1,42 @@
+#Waresoft-list#
+```yi
+软件列表
+ ```
+    ##System-soft##
+    ```yi
+    系统软件
+    ```
+       ###1.System-image###
+       ```yi
+       系统镜像
+       ```
+       `Windows`
+       
+          `Windows 8.1`
+          
+          `Windows 8`
+         
+          `Windows 7`
+         
+          `Windows Vista`
+         
+          `Windosw XP`
+          
+          `website`
+          [MSDN,我告诉你](http://msdn.itellyou.cn/)
+          
+          [MSDN ISO下载](http://msdn.ez58.net/)
+          
+       `Linux`
+       
+          `Ubuntu`
+          `website`
+          [Ubuntu官网](http://www.ubuntu.com/)
+          
+          [Ubuntu中文论坛](http://forum.ubuntu.org.cn/)
+       `Unix`
+       
+          `Mac OS`
+          `website`
+          [Apple官网](http://www.apple.com)
+ 
